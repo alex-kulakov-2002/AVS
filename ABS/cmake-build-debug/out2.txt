@@ -1,0 +1,20 @@
+Changed container: 
+Container :
+Parallelepiped:
+length = 6
+width = 10
+depth = 3
+Volume = 180.000000
+Density = 45
+Sphere:
+radius = 1
+volume = 4.188791
+Density = 24
+Sphere:
+radius = 4
+volume = 268.082603
+Density = 23
+Tetrahedron
+length = 233
+volume = 1490738.661702
+Density = 44

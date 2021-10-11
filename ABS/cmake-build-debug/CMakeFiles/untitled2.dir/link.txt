@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/untitled2.dir/main.c.o CMakeFiles/untitled2.dir/random.c.o CMakeFiles/untitled2.dir/sphere.c.o CMakeFiles/untitled2.dir/processingExceptions.c.o CMakeFiles/untitled2.dir/parallelepiped.c.o CMakeFiles/untitled2.dir/tetrahedron.c.o CMakeFiles/untitled2.dir/figure.c.o CMakeFiles/untitled2.dir/container.c.o -o untitled2 
